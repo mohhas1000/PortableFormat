@@ -1,0 +1,14 @@
+INSTRUKTIONER FÖR ATT UTFÖRA MIN LÖSNING!
+
+---------------------------------JSON/Väderprognos-----------------------------------
+1. Gå in i filen och tryck på filen index.html
+2. När sidan har laddats då bör du se en sökfunktion 
+3. Ange vilken stad du vill veta för vädret. 
+4. Väderprognos har visat för staden. Sök igen för att se en annan väderprognos
+
+
+---------------------------------XML/filmrecension-----------------------------------
+1. Gå in i samma fil och tryck på filen indexml.
+2. När sidan har laddats då bör du även se en sökfunktion.
+3. Ange vilken film du vill veta information om.
+4. En filmrecension har visats för filmen. Sök igen för att se en annan filmrecension.

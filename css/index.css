@@ -1,0 +1,7 @@
+.imgbild{
+	margin-bottom: 40px;
+}
+th, td{
+	border: 1px solid lightgray; /* Alla td och th-element har en gråljus kant (heldragen) med en bredd på 1 px. */
+}
+
